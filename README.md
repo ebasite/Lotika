@@ -1,0 +1,2 @@
+# Lotika
+lottery platform
