@@ -1,0 +1,23 @@
+{
+  "name": "lotika-protected-server",
+  "version": "1.0.0",
+  "description": "Lotika lottery game with server-side protection and URL obfuscation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {},
+  "keywords": [
+    "vercel",
+    "serverless",
+    "lotika",
+    "lottery",
+    "content-protection",
+    "security"
+  ],
+  "author": "",
+  "license": "MIT"
+}
